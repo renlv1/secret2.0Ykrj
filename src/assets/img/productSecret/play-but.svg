@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115.396" height="33.646" viewBox="0 0 115.396 33.646">
+  <g id="播放" transform="translate(74.5)">
+    <path id="路径_37753" data-name="路径 37753" d="M16.823,32.653a15.83,15.83,0,1,1,15.83-15.83,15.845,15.845,0,0,1-15.83,15.83M16.823,0A16.823,16.823,0,1,0,33.646,16.823,16.851,16.851,0,0,0,16.823,0" transform="translate(-44.84)" fill="#636e72"/>
+    <path id="路径_37754" data-name="路径 37754" d="M434.176,338.944v11.495l9.471-5.747-9.471-5.747" transform="translate(-464.81 -327.868)" fill="#636e72"/>
+    <line id="直线_546" data-name="直线 546" x2="22.431" transform="translate(-74 17.103)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <line id="直线_547" data-name="直线 547" x2="44.861" transform="translate(-4.465 17.103)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

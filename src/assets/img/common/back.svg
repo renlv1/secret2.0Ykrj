@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="36" height="28" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="返回" clip-path="url(#clip-path)">
+    <path id="路径_95" data-name="路径 95" d="M0,0,16.8,0l0,16.8" transform="translate(14.004 25.878) rotate(-135)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="直线_35" data-name="直线 35" x2="31.879" transform="translate(2.621 14)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

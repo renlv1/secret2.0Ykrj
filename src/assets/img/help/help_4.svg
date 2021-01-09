@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="新手引导_4" transform="translate(0 -0.275)">
+    <rect id="矩形_2182" data-name="矩形 2182" width="50" height="50" transform="translate(0 0.275)" fill="#fff" opacity="0"/>
+    <path id="路径_858" data-name="路径 858" d="M331.176,271.252h-2.933v-23.4a1.947,1.947,0,0,1,1.958-1.932h2.753a.318.318,0,1,0,0-.635H330.2a2.588,2.588,0,0,0-2.6,2.568v27.265a2.588,2.588,0,0,0,2.6,2.568h16v6.247h-3.6a.318.318,0,1,0-.022.635h14.669a.318.318,0,1,0,.022-.635h-3.626v-6.247h16a2.588,2.588,0,0,0,2.6-2.568V247.848a2.588,2.588,0,0,0-2.6-2.568h-2.642a.318.318,0,1,0,0,.635h2.642a1.948,1.948,0,0,1,1.958,1.932v23.4H331.176Zm21.819,12.676h-6.152v-6.247h6.152Zm18.6-8.815a1.948,1.948,0,0,1-1.958,1.932H330.2a1.947,1.947,0,0,1-1.958-1.932v-3.226h43.352Z" transform="translate(-325.814 -237.245)" fill="#ff7675" stroke="#ff7675" stroke-linecap="round" stroke-width="0.5"/>
+    <path id="路径_860" data-name="路径 860" d="M385.574,322.285a.326.326,0,0,0,.333-.317v-.011a.331.331,0,1,0-.333.329Z" transform="translate(-361.473 -284.894)" stroke="#ff7675" stroke-linecap="round" stroke-width="0.5"/>
+    <g id="组_797" data-name="组 797" transform="translate(7.142 2.678)">
+      <path id="路径_1942" data-name="路径 1942" d="M342.1,228.046v24.622a1.01,1.01,0,0,0,1.516.868c2.581-1.465,8.266-3.608,15.582.1a.041.041,0,0,0,.06-.036V227.114s-9.051-4.836-16.924.488A.538.538,0,0,0,342.1,228.046Z" transform="translate(-342.096 -225.102)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="路径_1943" data-name="路径 1943" d="M403.255,243.8v8.87a1.009,1.009,0,0,1-1.516.868c-2.581-1.465-8.266-3.608-15.582.1a.041.041,0,0,1-.06-.036V227.114s8.979-4.8,16.829.424a.75.75,0,0,1,.33.624v10.394" transform="translate(-369.329 -225.102)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="路径_1944" data-name="路径 1944" d="M352.541,226.1v8.98l3.273-2.924,2.859,3.217v-9.72" transform="translate(-348.172 -224.896)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-width="1.2"/>
+      <line id="直线_84" data-name="直线 84" x2="9.943" transform="translate(19.446 7.962)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <line id="直线_85" data-name="直线 85" x2="9.943" transform="translate(19.446 11.813)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <line id="直线_86" data-name="直线 86" x2="9.943" transform="translate(19.446 15.663)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <line id="直线_87" data-name="直线 87" x2="6.58" transform="translate(19.716 19.514)" fill="none" stroke="#ff7675" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

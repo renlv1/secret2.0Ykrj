@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="组_21882" data-name="组 21882" transform="translate(4 2.522)">
+    <path id="路径_39921" data-name="路径 39921" d="M46.954,127.31h0a10,10,0,0,1-10-10h0a10,10,0,0,1,10-10h0a10,10,0,0,1,10,10h0A10,10,0,0,1,46.954,127.31Z" transform="translate(-40.954 -109.832)" fill="#fff"/>
+    <g id="组_21869" data-name="组 21869" transform="translate(0 3.485)" opacity="0.95">
+      <path id="路径_39910" data-name="路径 39910" d="M0,11.7v7l2.294,1.34v-7Z" transform="translate(0 -11.7)" fill="#032e43" opacity="0.95"/>
+      <path id="路径_39911" data-name="路径 39911" d="M0,27.015v-.03L6.077,23.5,8.34,24.811,2.264,28.326Z" transform="translate(0 -19.985)" fill="#032e43" opacity="0.95"/>
+    </g>
+    <path id="路径_39912" data-name="路径 39912" d="M35.364,15.64v-7L33.1,7.3v7Z" transform="translate(-23.24 -5.126)" fill="#636363" opacity="0.95"/>
+    <path id="路径_39913" data-name="路径 39913" d="M22.664,8.311h0v-7L20.4,0V7Z" transform="translate(-14.323)" fill="#bebebe" opacity="0.95"/>
+    <path id="路径_39914" data-name="路径 39914" d="M21.04,8.611v.03l-6.047,3.485L12.7,10.815,18.777,7.3Z" transform="translate(-8.917 -5.126)" fill="#032e43" opacity="0.95"/>
+    <g id="组_21870" data-name="组 21870" transform="translate(3.783 5.689)" opacity="0.95">
+      <path id="路径_39915" data-name="路径 39915" d="M12.7,19.1h0v7l2.294,1.311v-7Z" transform="translate(-12.7 -19.1)" fill="#bebebe" opacity="0.95"/>
+      <path id="路径_39916" data-name="路径 39916" d="M12.7,34.315h0L18.777,30.8l2.264,1.34-6.047,3.485Z" transform="translate(-12.7 -27.315)" fill="#bebebe" opacity="0.95"/>
+    </g>
+    <path id="路径_39917" data-name="路径 39917" d="M8.34,1.311h0L2.264,4.826,0,3.485,6.077,0Z" fill="#bebebe" opacity="0.95"/>
+  </g>
+</svg>

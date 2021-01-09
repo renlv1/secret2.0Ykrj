@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="新手引导_2" transform="translate(0 0.168)">
+    <g id="矩形_2180" data-name="矩形 2180" transform="translate(0 -0.168)" fill="#fff" stroke="#6287de" stroke-width="1" opacity="0">
+      <rect width="50" height="50" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" fill="none"/>
+    </g>
+    <path id="路径_1946" data-name="路径 1946" d="M646.57,484.729v11.625H608.475v-15.7" transform="translate(-602.267 -456.71)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <path id="矩形_87" data-name="矩形 87" d="M.306,0H44.333a.306.306,0,0,1,.306.306v0a4.688,4.688,0,0,1-4.688,4.688H4.688A4.688,4.688,0,0,1,0,.306v0A.306.306,0,0,1,.306,0Z" transform="translate(2.678 39.645)" fill="none" stroke="#6287de" stroke-miterlimit="10" stroke-width="1.2"/>
+    <line id="直线_88" data-name="直线 88" y2="2.282" transform="translate(32.891 42.357)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <line id="直线_89" data-name="直线 89" y2="2.282" transform="translate(36.248 42.357)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <line id="直线_90" data-name="直线 90" y2="2.282" transform="translate(40.012 42.357)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <path id="减去_1" data-name="减去 1" d="M12.281,19.564a.529.529,0,0,1-.352-.133l-4.12-3.584H.432A.432.432,0,0,1,0,15.416V.432A.431.431,0,0,1,.432,0H21.875a.431.431,0,0,1,.43.43V4.359H20.87a.431.431,0,0,0-.43.43V15.847H13.349l-.533,3.263A.54.54,0,0,1,12.281,19.564Z" transform="translate(2.852 5.355)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <line id="直线_91" data-name="直线 91" x2="6.2" transform="translate(5.606 8.307)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <line id="直线_92" data-name="直线 92" x2="11.482" transform="translate(5.606 11.177)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <line id="直线_93" data-name="直线 93" x2="11.482" transform="translate(5.606 15.553)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <path id="路径_1948" data-name="路径 1948" d="M675.071,460.521H660.116L656,464.105a.539.539,0,0,1-.886-.32l-.533-3.264h-2.67a.43.43,0,0,1-.43-.431V444.418a.43.43,0,0,1,.43-.431h23.165a.431.431,0,0,1,.431.431V460.09A.431.431,0,0,1,675.071,460.521Z" transform="translate(-628.184 -434.274)" fill="none" stroke="#6287de" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <g id="组_799" data-name="组 799" transform="translate(30.375 13.676)">
+      <path id="路径_1951" data-name="路径 1951" d="M675.534,468.79a1.936,1.936,0,0,1-1.411-.59,1.994,1.994,0,0,1-.59-1.411,1.936,1.936,0,0,1,.59-1.41l1.827-1.827a1.992,1.992,0,0,1,1.41-.59,1.936,1.936,0,0,1,1.41.59.4.4,0,0,1,.114.285.455.455,0,0,1-.114.286.391.391,0,0,1-.553.008l-.008-.008a1.216,1.216,0,0,0-1.7,0l-1.827,1.827a1.187,1.187,0,0,0-.343.849,1.249,1.249,0,0,0,.343.849,1.184,1.184,0,0,0,.849.343,1.248,1.248,0,0,0,.849-.343l1.541-1.541a.4.4,0,0,1,.561.561l-1.542,1.542a2.006,2.006,0,0,1-1.41.58Z" transform="translate(-673.534 -459.951)" fill="#6287de"/>
+      <path id="路径_1952" data-name="路径 1952" d="M685.171,460.055a1.934,1.934,0,0,1-1.411-.59.4.4,0,0,1,.561-.561,1.216,1.216,0,0,0,1.7,0l1.827-1.827a1.185,1.185,0,0,0,.342-.849,1.249,1.249,0,0,0-.342-.849,1.186,1.186,0,0,0-.849-.342,1.249,1.249,0,0,0-.849.342l-1.542,1.542a.4.4,0,0,1-.559-.568l1.541-1.542a1.993,1.993,0,0,1,1.41-.59,1.937,1.937,0,0,1,1.411.59,2,2,0,0,1,0,2.82l-1.827,1.827a1.993,1.993,0,0,1-1.41.59Z" transform="translate(-680.163 -454.221)" fill="#6287de"/>
+    </g>
+  </g>
+</svg>
